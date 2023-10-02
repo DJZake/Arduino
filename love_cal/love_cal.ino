@@ -1,6 +1,4 @@
-2
- 
-// Include library
+ // Include library
 #include "SevSeg.h"
  
 // Create object
